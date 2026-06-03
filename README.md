@@ -237,7 +237,7 @@ instead of causing an index error.
 
 <tr>
 <td><strong>3️⃣ Run Program</strong></td>
-<td><code>python Caesar Cipher.py</code></td>
+<td><code>caesar cipher.py</code></td>
 <td>Launch the application</td>
 </tr>
 
