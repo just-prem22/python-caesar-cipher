@@ -333,7 +333,7 @@ This preview demonstrates both encryption and decryption functionality using use
 * 📂 File encryption support
 * 🌐 Web-based version
 * 🔒 Stronger encryption techniques
-* 📈 
+* 📈 Encryption statistics dashboard
 
 ---
 
